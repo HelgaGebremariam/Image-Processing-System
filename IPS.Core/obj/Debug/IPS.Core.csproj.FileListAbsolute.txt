@@ -1,0 +1,5 @@
+C:\Users\Helga\documents\visual studio 2015\Projects\Image Processing System\IPS.Core\bin\Debug\IPS.Core.dll
+C:\Users\Helga\documents\visual studio 2015\Projects\Image Processing System\IPS.Core\bin\Debug\IPS.Core.pdb
+C:\Users\Helga\documents\visual studio 2015\Projects\Image Processing System\IPS.Core\obj\Debug\IPS.Core.dll
+C:\Users\Helga\documents\visual studio 2015\Projects\Image Processing System\IPS.Core\obj\Debug\IPS.Core.pdb
+C:\Users\Helga\documents\visual studio 2015\Projects\Image Processing System\IPS.Core\obj\Debug\IPS.Core.csprojResolveAssemblyReference.cache

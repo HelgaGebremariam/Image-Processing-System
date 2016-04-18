@@ -1,0 +1,14 @@
+C:\Users\Helga\documents\visual studio 2015\Projects\Image Processing System\IPS.Console\bin\Debug\IPS.Console.exe.config
+C:\Users\Helga\documents\visual studio 2015\Projects\Image Processing System\IPS.Console\bin\Debug\IPS.Console.exe
+C:\Users\Helga\documents\visual studio 2015\Projects\Image Processing System\IPS.Console\bin\Debug\IPS.Console.pdb
+C:\Users\Helga\documents\visual studio 2015\Projects\Image Processing System\IPS.Console\bin\Debug\EntityFramework.dll
+C:\Users\Helga\documents\visual studio 2015\Projects\Image Processing System\IPS.Console\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Helga\documents\visual studio 2015\Projects\Image Processing System\IPS.Console\bin\Debug\IPS.BLL.dll
+C:\Users\Helga\documents\visual studio 2015\Projects\Image Processing System\IPS.Console\bin\Debug\IPS.ORM.dll
+C:\Users\Helga\documents\visual studio 2015\Projects\Image Processing System\IPS.Console\bin\Debug\IPS.BLL.pdb
+C:\Users\Helga\documents\visual studio 2015\Projects\Image Processing System\IPS.Console\bin\Debug\EntityFramework.xml
+C:\Users\Helga\documents\visual studio 2015\Projects\Image Processing System\IPS.Console\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Helga\documents\visual studio 2015\Projects\Image Processing System\IPS.Console\bin\Debug\IPS.ORM.pdb
+C:\Users\Helga\documents\visual studio 2015\Projects\Image Processing System\IPS.Console\obj\Debug\IPS.Console.csprojResolveAssemblyReference.cache
+C:\Users\Helga\documents\visual studio 2015\Projects\Image Processing System\IPS.Console\obj\Debug\IPS.Console.exe
+C:\Users\Helga\documents\visual studio 2015\Projects\Image Processing System\IPS.Console\obj\Debug\IPS.Console.pdb

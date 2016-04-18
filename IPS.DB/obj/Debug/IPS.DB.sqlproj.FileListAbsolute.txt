@@ -1,0 +1,9 @@
+C:\Users\Helga\documents\visual studio 2015\Projects\Image Processing System\IPS.DB\bin\Debug\IPS.DB.dacpac
+C:\Users\Helga\documents\visual studio 2015\Projects\Image Processing System\IPS.DB\bin\Debug\IPS.DB.dll
+C:\Users\Helga\documents\visual studio 2015\Projects\Image Processing System\IPS.DB\bin\Debug\IPS.DB.pdb
+C:\Users\Helga\documents\visual studio 2015\Projects\Image Processing System\IPS.DB\obj\Debug\IPS.DB.dll
+C:\Users\Helga\documents\visual studio 2015\Projects\Image Processing System\IPS.DB\obj\Debug\IPS.DB.pdb
+C:\Users\Helga\documents\visual studio 2015\Projects\Image Processing System\IPS.DB\obj\Debug\Model.xml
+C:\Users\Helga\documents\visual studio 2015\Projects\Image Processing System\IPS.DB\obj\Debug\refactor.xml
+C:\Users\Helga\documents\visual studio 2015\Projects\Image Processing System\IPS.DB\obj\Debug\postdeploy.sql
+C:\Users\Helga\documents\visual studio 2015\Projects\Image Processing System\IPS.DB\obj\Debug\predeploy.sql

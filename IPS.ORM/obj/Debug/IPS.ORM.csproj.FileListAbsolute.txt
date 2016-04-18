@@ -1,0 +1,10 @@
+C:\Users\Helga\documents\visual studio 2015\Projects\Image Processing System\IPS.ORM\bin\Debug\IPS.ORM.dll.config
+C:\Users\Helga\documents\visual studio 2015\Projects\Image Processing System\IPS.ORM\bin\Debug\IPS.ORM.dll
+C:\Users\Helga\documents\visual studio 2015\Projects\Image Processing System\IPS.ORM\bin\Debug\IPS.ORM.pdb
+C:\Users\Helga\documents\visual studio 2015\Projects\Image Processing System\IPS.ORM\bin\Debug\EntityFramework.dll
+C:\Users\Helga\documents\visual studio 2015\Projects\Image Processing System\IPS.ORM\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Helga\documents\visual studio 2015\Projects\Image Processing System\IPS.ORM\bin\Debug\EntityFramework.xml
+C:\Users\Helga\documents\visual studio 2015\Projects\Image Processing System\IPS.ORM\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Helga\documents\visual studio 2015\Projects\Image Processing System\IPS.ORM\obj\Debug\IPS.ORM.dll
+C:\Users\Helga\documents\visual studio 2015\Projects\Image Processing System\IPS.ORM\obj\Debug\IPS.ORM.pdb
+C:\Users\Helga\documents\visual studio 2015\Projects\Image Processing System\IPS.ORM\obj\Debug\IPS.ORM.csprojResolveAssemblyReference.cache
