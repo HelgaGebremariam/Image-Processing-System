@@ -1,0 +1,12 @@
+IPS.DB/obj/Debug/Model.xml
+IPS.DB/obj/Debug/IPS.DB.sqlproj.FileListAbsolute.txt
+IPS.ORM/obj/Debug/IPS.ORM.csproj.FileListAbsolute.txt
+IPS.DB/bin/Debug/IPS.DB.dacpac
+IPS.DB/IPS.DB.dbmdl
+IPS.Core/obj/Debug/IPS.Core.csproj.FileListAbsolute.txt
+IPS.Console/obj/Debug/build.force
+IPS.Console/obj/Debug/IPS.Console.csproj.FileListAbsolute.txt
+IPS.BLL/obj/Debug/IPS.BLL.csproj.FileListAbsolute.txt
+.vs/config/applicationhost.config
+IPS.PL/obj/Debug/IPS.PL.csproj.FileListAbsolute.txt
+IPS.PL/bin/IPS.PL.dll.config
