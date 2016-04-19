@@ -18,7 +18,7 @@ namespace IPS.BLL.Account
                 User userEntity = new User()
                 {
                     Name = userName,
-                    Password = password,
+                    Password = Algorithms.HashAlgorithm.GetHashCode(password),
                     Role = 2
 
                 };

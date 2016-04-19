@@ -51,6 +51,7 @@
   <ItemGroup>
     <Compile Include="Account\Accounts.cs" />
     <Compile Include="Account\Registration.cs" />
+    <Compile Include="Algorithms\HashAlgorithm.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

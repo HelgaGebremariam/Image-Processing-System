@@ -29,11 +29,12 @@ namespace IPS.BLL.Account
             return false;
         }
 
-        public static bool IsLoginDataValid(string userName, string passwordHash)
+        public static bool IsLoginDataValid(string userName, string password)
         {
             using (var context = new ImageDataEntities())
             {
-                if (context.Users.Where(u => u.Password == passwordHash && u.Name == userName).Count() > 0)
+                if (context.Users.Where(u => u.Password == Algorithms.HashAlgorithm.GetHashCode(password) && 
+                u.Name == userName).Count() > 0)
                     return true;
             }
             return false;
